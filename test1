@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>信州大学保健学科</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>信州大学 保健学科</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">学科紹介</a></li>
+                <li><a href="#curriculum">教育内容</a></li>
+                <li><a href="#faculty">教員紹介</a></li>
+                <li><a href="#admissions">入試情報</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main-visual">
+        <h2>未来の医療を支える力を育む</h2>
+    </section>
+
+    <section id="about" class="section-content">
+        <h2>学科紹介</h2>
+        <p>信州大学保健学科は、次世代の保健医療を担う人材を育成します。</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 信州大学 保健学科</p>
+    </footer>
+</body>
+</html>
